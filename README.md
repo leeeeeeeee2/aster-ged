@@ -1,5 +1,5 @@
 # ASTER GED Scripts 
------------------------------------------------------------------------------------------------------------------------|  
+------------------------------------------------------------------------------------------------------------------------   
 This repository contains R and Python scripts for processing Advanced Spaceborne Thermal Emission and Reflection   
 Radiometer (ASTER) Global Emissivity Dataset (GED) for version 3 and 4.1 ASTER GED products. The scripts convert ASTER   
 GED files from Hierarchical Data Format Version 5 (HDF5, .h5) file format into georeferenced GeoTIFFs. The scripts  
@@ -22,6 +22,12 @@ Library                   | Minimum Version
 h5py                      | 2.6.0   
 numpy                     | 1.11.0        
 osgeo (with gdal and osr) | 1.11.1
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Procedures:
 #### R

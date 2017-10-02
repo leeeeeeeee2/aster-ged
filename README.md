@@ -24,15 +24,11 @@ h5py                      | 2.6.0
 numpy                     | 1.11.0        
 osgeo (with gdal and osr) | 1.11.1
 
-|Value|Description|
-|-------|----------------|
-|32761|Land cover assigned as "unclassified" or not able to determine|
-|32762|Land cover assigned as urban/built-up|
-|32763|Land cover assigned as "permanent" wetlands / inundated marshland|
-|32764|Land cover assigned as perennial snow, ice|
-|32765|Land cover assigned as barren, sparse vegetation (rock, tundra, desert)|
-|32766| Land cover assigned as perennial salt or water bodies|
-|32767|Fill|
+  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Procedures:
 \_______________________________________________________________________________________________________________________  

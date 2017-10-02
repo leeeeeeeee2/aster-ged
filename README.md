@@ -7,19 +7,22 @@ output GeoTIFF files for each science dataset contained in the original ASTER GE
 Geographic (latitude/longitude) WGS84 coordinate system.   
 
 ## Prerequisites:
-#### R (tested in Version 3.3):    
+#### R (tested in Version 3.3):  
+  
 Library   | Minimum Version          
-----------| --------------- 
+----------| --------------: 
 rhdf5     | N/A   
 rgdal     | N/A          
 raster    | N/A 
 
-#### Python (tested in Version 2.7 & 3.4):    
+#### Python (tested in Version 2.7 & 3.4): 
+   
 Library                   | Minimum Version          
---------------------------| --------------- 
+--------------------------| --------------: 
 h5py                      | 2.6.0   
 numpy                     | 1.11.0        
 osgeo (with gdal and osr) | 1.11.1
+
 ## Procedures:
 #### R
 1. Copy or clone ASTER GED R script from the LP DAAC Data User Resources Repository  
@@ -39,7 +42,7 @@ osgeo (with gdal and osr) | 1.11.1
 [ASTER GED V4.1 Tutorial](https://lpdaac.usgs.gov/user_resources/e_learning/how_convert_aster_ged_v4_science_datasets_georeferenced)   
 [ASTER GED Products List](https://lpdaac.usgs.gov/dataset_discovery/community/community_products_table)  
 #### Authors:
-Aaron Friesz<sup>1</sup> & Cole Krehbiel<sup>1</sup> 
+Aaron Friesz<sup>1</sup> & Cole Krehbiel<sup>1</sup>   
 <sup>1</sup> Innovate!, Inc., contractor to the U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center,  
  Sioux Falls, South Dakota, USA. Work performed under USGS contract G15PD00766 for LP DAAC<sup>2</sup>.  
 <sup>2</sup> LP DAAC Work performed under NASA contract NNG14HH33I.

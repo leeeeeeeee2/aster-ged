@@ -24,12 +24,6 @@ h5py                      | 2.6.0
 numpy                     | 1.11.0        
 osgeo (with gdal and osr) | 1.11.1
 
-  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ## Procedures:
 \_______________________________________________________________________________________________________________________  
 #### R

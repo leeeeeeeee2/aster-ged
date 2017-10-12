@@ -12,9 +12,9 @@ coordinate reference system.
 [AG1km V003](https://doi.org/10.5067/community/aster_ged/ag1km.003)  
 [AG5KMMMOH V041](https://doi.org/10.5067/community/aster_ged/ag5kmmoh.041)  
 #### Authors:
-Aaron Friesz<sup>1</sup> & Cole Krehbiel<sup>1</sup>   
-<sup>1</sup> Innovate!, Inc., contractor to the U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center,  
- Sioux Falls, South Dakota, USA. Work performed under USGS contract G15PD00766 for LP DAAC<sup>2</sup>.  
-<sup>2</sup> LP DAAC Work performed under NASA contract NNG14HH33I.
+Aaron Friesz¹ & Cole Krehbiel¹   
+¹Innovate!, Inc., contractor to the U.S. Geological Survey, Earth Resources Observation and Science (EROS) Center,  
+ Sioux Falls, South Dakota, USA. Work performed under USGS contract G15PD00766 for LP DAAC².  
+²LP DAAC Work performed under NASA contract NNG14HH33I.
 
-Contact: LPDAAC@usgs.gov 
+Contact: LPDAAC@usgs.gov

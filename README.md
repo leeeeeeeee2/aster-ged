@@ -5,8 +5,8 @@ available for each Version. Each script converts individual science datasets con
 Data Format Version 5 (HDF5, *.h5) files to georeferenced GeoTIFFs with the Geographic (latitude/longitude) WGS84  
 coordinate reference system.
 ## Additional Information:
-[ASTER GED V3 Tutorial](https://lpdaac.usgs.gov/user_resources/e_learning/how_convert_aster_ged_v3_science_datasets_georeferenced)   
-[ASTER GED V4.1 Tutorial](https://lpdaac.usgs.gov/user_resources/e_learning/how_convert_aster_ged_v4_science_datasets_georeferenced)   
+[ASTER GED V3 Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-ged/browse/aster_ged_v3)   
+[ASTER GED V4.1 Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-ged/browse/aster_ged_v4.1)   
 ### ASTER GED Products:
 [AG100 V003](https://doi.org/10.5067/community/aster_ged/ag100.003)  
 [AG1km V003](https://doi.org/10.5067/community/aster_ged/ag1km.003)  
